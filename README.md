@@ -1,3 +1,6 @@
+The idea is the brainchild of **Himanshu V Kulkarni**.  
+It’s built for DevOps teams, SREs, and platform engineers who want to automate routine infrastructure tasks without reinventing the wheel.
+
 # soperator
 
 AI-powered agent that reads SOPs from Jira, Confluence, GitHub, or Markdown files — and executes or outlines infrastructure tasks.
@@ -11,8 +14,6 @@ AI-powered agent that reads SOPs from Jira, Confluence, GitHub, or Markdown file
 - Execute tasks directly or generate detailed, actionable plans  
 - Notify at each stage of execution or planning  
 
-The idea is the brainchild of **Himanshu V Kulkarni**.  
-It’s built for DevOps teams, SREs, and platform engineers who want to automate routine infrastructure tasks without reinventing the wheel.
 
 ## Use Case Example
 
