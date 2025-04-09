@@ -1,0 +1,10 @@
+echo ".venv/
+__pycache__/
+.env
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env.*
+
+
